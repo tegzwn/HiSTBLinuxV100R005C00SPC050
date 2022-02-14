@@ -1,0 +1,1 @@
+tools/windows/HiWorkbench/Hiworkbench_v5_0_4.zip filter=lfs diff=lfs merge=lfs -text
